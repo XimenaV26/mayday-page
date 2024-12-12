@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Sour Gummy";
+  src: url("../fonts/static/SourGummy-Regular.ttf");
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Sour Gummy";
+  src: url("../fonts/static/SourGummy-SemiBold.ttf");
+  font-style: normal;
+  font-weight: 700;
+}
